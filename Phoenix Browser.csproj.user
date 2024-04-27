@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <PublishUrlHistory>C:\Users\minte\Desktop\Build for ossi\|D:\yjgvhgyhhh111\|C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Publish\|C:\Users\Temp Coding Account\Desktop\Egale Eye Test Build\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory>https://gal-x-e.github.io/PhoenixBrowser/</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>https://gal-x-e.github.io/PhoenixBrowser/</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
