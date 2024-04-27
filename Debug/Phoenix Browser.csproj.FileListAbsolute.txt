@@ -1,0 +1,474 @@
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\CefSharp.Core.Runtime.dll
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\CefSharp.Core.Runtime.pdb
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\CefSharp.Core.Runtime.xml
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\chrome_100_percent.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\chrome_200_percent.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\chrome_elf.dll
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\d3dcompiler_47.dll
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\icudtl.dat
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\libcef.dll
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\libEGL.dll
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\libGLESv2.dll
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\LICENSE.txt
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\af.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\am.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\ar.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\bg.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\bn.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\ca.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\cs.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\da.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\de.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\el.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\en-GB.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\en-US.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\es-419.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\es.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\et.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\fa.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\fi.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\fil.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\fr.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\gu.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\he.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\hi.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\hr.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\hu.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\id.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\it.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\ja.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\kn.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\ko.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\lt.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\lv.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\ml.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\mr.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\ms.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\nb.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\nl.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\pl.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\pt-BR.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\pt-PT.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\ro.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\ru.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\sk.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\sl.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\sr.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\sv.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\sw.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\ta.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\te.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\th.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\tr.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\uk.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\ur.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\vi.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\zh-CN.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\locales\zh-TW.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\README.txt
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\resources.pak
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\snapshot_blob.bin
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\v8_context_snapshot.bin
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\vk_swiftshader.dll
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\vk_swiftshader_icd.json
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\vulkan-1.dll
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\Browser Icon.ico
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\doc.txt
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\Reload.png
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\stop.png
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\Egale Eye Browser.exe.config
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\Egale Eye Browser.exe.manifest
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\Egale Eye Browser.application
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\Egale Eye Browser.exe
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\Egale Eye Browser.pdb
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\Egale Eye Browser.exe.CodeAnalysisLog.xml
+C:\Users\Temp Coding Account\Desktop\Phoenix Browser\Bin Debug\Egale Eye Browser.exe.lastcodeanalysissucceeded
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\CefSharp.Core.Runtime.dll
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\CefSharp.Core.Runtime.pdb
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\CefSharp.Core.Runtime.xml
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\chrome_100_percent.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\chrome_200_percent.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\chrome_elf.dll
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\d3dcompiler_47.dll
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\icudtl.dat
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\libcef.dll
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\libEGL.dll
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\libGLESv2.dll
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\resources.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\snapshot_blob.bin
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\v8_context_snapshot.bin
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\vk_swiftshader.dll
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\vk_swiftshader_icd.json
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\vulkan-1.dll
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\af.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\am.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\ar.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\bg.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\bn.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\ca.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\cs.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\da.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\de.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\el.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\en-GB.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\en-US.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\es-419.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\es.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\et.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\fa.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\fi.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\fil.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\fr.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\gu.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\he.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\hi.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\hr.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\hu.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\id.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\it.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\ja.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\kn.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\ko.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\lt.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\lv.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\ml.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\mr.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\ms.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\nb.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\nl.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\pl.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\pt-BR.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\pt-PT.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\ro.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\ru.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\sk.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\sl.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\sr.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\sv.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\sw.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\ta.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\te.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\th.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\tr.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\uk.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\ur.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\vi.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\zh-CN.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\locales\zh-TW.pak
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\LICENSE.txt
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\README.txt
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\Egale Eye Search.html
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\siteblockerlist.txt
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\Browser Icon.ico
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\doc.txt
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\Reload.png
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\stop.png
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\Egale Eye Browser.exe.config
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\Egale Eye Browser.exe.manifest
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\Egale Eye Browser.application
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\Egale Eye Browser.exe
+C:\Users\Temp Coding Account\Desktop\Egale Eye Browser\Bin Debug\Egale Eye Browser.pdb
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix Browser.csproj.AssemblyReference.cache
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Interop.EnvDTE.dll
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Interop.VSLangProj.dll
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix Browser.csproj.ResolveComReference.cache
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix_Browser.Form3.resources
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix_Browser.fscreen.resources
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix_Browser.licenses.resources
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix_Browser.Main_Browser_UI.resources
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix_Browser.menu1.resources
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix_Browser.Properties.Resources.resources
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix Browser.csproj.GenerateResource.cache
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix Browser.csproj.CoreCompileInputs.cache
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Egale Eye Browser.TrustInfo.xml
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Egale Eye Browser.exe.manifest
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Egale Eye Browser.application
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix .B58A040F.Up2Date
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Egale Eye Browser.exe
+C:\Users\Temp Coding Account\source\repos\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Egale Eye Browser.pdb
+D:\Desktop\Egale Eye Browser\Bin Debug\CefSharp.Core.Runtime.dll
+D:\Desktop\Egale Eye Browser\Bin Debug\CefSharp.Core.Runtime.pdb
+D:\Desktop\Egale Eye Browser\Bin Debug\CefSharp.Core.Runtime.xml
+D:\Desktop\Egale Eye Browser\Bin Debug\chrome_100_percent.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\chrome_200_percent.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\chrome_elf.dll
+D:\Desktop\Egale Eye Browser\Bin Debug\d3dcompiler_47.dll
+D:\Desktop\Egale Eye Browser\Bin Debug\icudtl.dat
+D:\Desktop\Egale Eye Browser\Bin Debug\libcef.dll
+D:\Desktop\Egale Eye Browser\Bin Debug\libEGL.dll
+D:\Desktop\Egale Eye Browser\Bin Debug\libGLESv2.dll
+D:\Desktop\Egale Eye Browser\Bin Debug\resources.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\snapshot_blob.bin
+D:\Desktop\Egale Eye Browser\Bin Debug\v8_context_snapshot.bin
+D:\Desktop\Egale Eye Browser\Bin Debug\vk_swiftshader.dll
+D:\Desktop\Egale Eye Browser\Bin Debug\vk_swiftshader_icd.json
+D:\Desktop\Egale Eye Browser\Bin Debug\vulkan-1.dll
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\af.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\am.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\ar.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\bg.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\bn.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\ca.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\cs.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\da.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\de.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\el.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\en-GB.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\en-US.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\es-419.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\es.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\et.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\fa.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\fi.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\fil.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\fr.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\gu.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\he.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\hi.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\hr.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\hu.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\id.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\it.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\ja.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\kn.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\ko.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\lt.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\lv.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\ml.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\mr.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\ms.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\nb.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\nl.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\pl.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\pt-BR.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\pt-PT.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\ro.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\ru.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\sk.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\sl.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\sr.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\sv.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\sw.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\ta.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\te.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\th.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\tr.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\uk.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\ur.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\vi.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\zh-CN.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\locales\zh-TW.pak
+D:\Desktop\Egale Eye Browser\Bin Debug\LICENSE.txt
+D:\Desktop\Egale Eye Browser\Bin Debug\README.txt
+D:\Desktop\Egale Eye Browser\Bin Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\Desktop\Egale Eye Browser\Bin Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\Desktop\Egale Eye Browser\Bin Debug\CefSharp.BrowserSubprocess.exe
+D:\Desktop\Egale Eye Browser\Bin Debug\CefSharp.BrowserSubprocess.pdb
+D:\Desktop\Egale Eye Browser\Bin Debug\Egale Eye Search.html
+D:\Desktop\Egale Eye Browser\Bin Debug\siteblockerlist.txt
+D:\Desktop\Egale Eye Browser\Bin Debug\Browser Icon.ico
+D:\Desktop\Egale Eye Browser\Bin Debug\doc.txt
+D:\Desktop\Egale Eye Browser\Bin Debug\Reload.png
+D:\Desktop\Egale Eye Browser\Bin Debug\stop.png
+D:\Desktop\Egale Eye Browser\Bin Debug\Egale Eye Browser.exe.config
+D:\Desktop\Egale Eye Browser\Bin Debug\Egale Eye Browser.exe.manifest
+D:\Desktop\Egale Eye Browser\Bin Debug\Egale Eye Browser.application
+D:\Desktop\Egale Eye Browser\Bin Debug\Egale Eye Browser.exe
+D:\Desktop\Egale Eye Browser\Bin Debug\Egale Eye Browser.pdb
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\CefSharp.Core.Runtime.dll
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\CefSharp.Core.Runtime.pdb
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\CefSharp.Core.Runtime.xml
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\chrome_100_percent.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\chrome_200_percent.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\chrome_elf.dll
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\d3dcompiler_47.dll
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\icudtl.dat
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\libcef.dll
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\libEGL.dll
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\libGLESv2.dll
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\resources.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\snapshot_blob.bin
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\v8_context_snapshot.bin
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\vk_swiftshader.dll
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\vk_swiftshader_icd.json
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\vulkan-1.dll
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\af.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\am.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\ar.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\bg.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\bn.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\ca.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\cs.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\da.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\de.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\el.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\en-GB.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\en-US.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\es-419.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\es.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\et.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\fa.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\fi.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\fil.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\fr.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\gu.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\he.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\hi.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\hr.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\hu.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\id.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\it.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\ja.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\kn.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\ko.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\lt.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\lv.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\ml.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\mr.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\ms.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\nb.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\nl.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\pl.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\pt-BR.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\pt-PT.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\ro.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\ru.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\sk.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\sl.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\sr.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\sv.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\sw.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\ta.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\te.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\th.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\tr.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\uk.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\ur.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\vi.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\zh-CN.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\locales\zh-TW.pak
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\CefSharp.BrowserSubprocess.exe
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\CefSharp.BrowserSubprocess.pdb
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\Egale Eye Search.html
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\siteblockerlist.txt
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\Browser Icon.ico
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\Reload.png
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\stop.png
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\Egale Eye Browser.exe.config
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\Egale Eye Browser.exe.manifest
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\Egale Eye Browser.application
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\Egale Eye Browser.exe
+D:\Visual Studio\Projects\Egale-Eye-Browser\Bin\Debug\Egale Eye Browser.pdb
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix Browser.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Interop.EnvDTE.dll
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Interop.VSLangProj.dll
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix Browser.csproj.ResolveComReference.cache
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix_Browser.Form3.resources
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix_Browser.licenses.resources
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix_Browser.Main_Browser_UI.resources
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix_Browser.menu1.resources
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix_Browser.Properties.Resources.resources
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix Browser.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix Browser.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Egale Eye Browser.TrustInfo.xml
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Egale Eye Browser.exe.manifest
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Egale Eye Browser.application
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Phoenix .B58A040F.Up2Date
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Egale Eye Browser.exe
+D:\Visual Studio\Projects\Egale-Eye-Browser\Phoenix Browser\obj\Debug\Egale Eye Browser.pdb
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\CefSharp.Core.Runtime.dll
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\CefSharp.Core.Runtime.pdb
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\CefSharp.Core.Runtime.xml
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\chrome_100_percent.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\chrome_200_percent.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\chrome_elf.dll
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\d3dcompiler_47.dll
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\icudtl.dat
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\libcef.dll
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\libEGL.dll
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\libGLESv2.dll
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\resources.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\snapshot_blob.bin
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\v8_context_snapshot.bin
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\vk_swiftshader.dll
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\vk_swiftshader_icd.json
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\vulkan-1.dll
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\af.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\am.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\ar.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\bg.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\bn.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\ca.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\cs.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\da.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\de.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\el.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\en-GB.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\en-US.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\es-419.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\es.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\et.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\fa.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\fi.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\fil.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\fr.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\gu.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\he.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\hi.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\hr.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\hu.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\id.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\it.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\ja.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\kn.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\ko.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\lt.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\lv.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\ml.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\mr.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\ms.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\nb.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\nl.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\pl.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\pt-BR.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\pt-PT.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\ro.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\ru.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\sk.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\sl.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\sr.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\sv.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\sw.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\ta.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\te.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\th.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\tr.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\uk.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\ur.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\vi.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\zh-CN.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\locales\zh-TW.pak
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\Egale Eye Search.html
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\siteblockerlist.txt
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\Browser Icon.ico
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\Reload.png
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\stop.png
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\Egale Eye Browser.exe.config
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\Egale Eye Browser.exe.manifest
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\Egale Eye Browser.application
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\Egale Eye Browser.exe
+C:\Users\minte\Desktop\Browser Project Files\Bin Debug\Egale Eye Browser.pdb
