@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eagle Eye Search</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #fff;
+        }
+
+        .search-container {
+            background-color: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 25px;
+            max-width: 500px;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+            .search-container h1 {
+                font-size: 2.5rem;
+                margin-bottom: 20px;
+            }
+
+            .search-container input[type="text"] {
+                width: calc(100% - 30px);
+                padding: 15px;
+                border: 2px solid rgba(255, 255, 255, 0.5);
+                background-color: transparent;
+                color: #fff;
+                font-size: 18px;
+                border-radius: 15px;
+                transition: border-color 0.3s ease;
+                margin-bottom: 20px;
+                outline: none;
+            }
+
+                .search-container input[type="text"]::placeholder {
+                    color: rgba(255, 255, 255, 0.7);
+                }
+
+                .search-container input[type="text"]:focus {
+                    border-color: #fff;
+                }
+
+            .search-container input[type="submit"] {
+                background-color: #fff;
+                color: #764ba2;
+                border: none;
+                padding: 15px 30px;
+                font-size: 18px;
+                border-radius: 15px;
+                cursor: pointer;
+                transition: background-color 0.3s ease;
+            }
+
+                .search-container input[type="submit"]:hover {
+                    background-color: #f6f6f6;
+                }
+    </style>
+</head>
+<body>
+    <div class="search-container">
+        <h1>Eagle Eye Search</h1>
+        <input type="text" id="search-input" placeholder="Enter your query..." />
+        <input type="submit" value="Search" onclick="search()" />
+        <p id="powered-by">Powered by Google Search Engine</p>
+    </div>
+
+    <script>
+        document.getElementById("search-input").addEventListener("keypress", function (event) {
+            if (event.key === "Enter") {
+                search();
+            }
+        });
+
+        function search() {
+            var input = document.getElementById("search-input").value;
+            var url = "https://www.google.com/search?q=" + encodeURIComponent(input);
+            window.location.href = url;
+        }
+    </script>
+</body>
+</html>
